@@ -1,6 +1,7 @@
 # OmniAuth::Toshl
 
-An OmniAuth Strategy for Toshl.
+An OmniAuth Strategy for Toshl.com
+
 [![Gem Version](https://badge.fury.io/rb/omniauth-toshl.png)](http://badge.fury.io/rb/omniauth-toshl)
 [![Build Status](https://travis-ci.org/h2ocube/omniauth-toshl.png)](https://travis-ci.org/h2ocube/omniauth-toshl)
 
